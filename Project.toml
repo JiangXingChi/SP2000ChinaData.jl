@@ -1,0 +1,13 @@
+name = "SP2000ChinaData"
+uuid = "e24bbd13-ca2d-4e80-8582-2dcbdb03756c"
+authors = ["JiangXingchi"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
+
+[compat]
+DataFrames = "1.7.0"
+XLSX ="0.10.4"
+julia = "1.10.5"
